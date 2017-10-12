@@ -1,10 +1,10 @@
 # Duolingo Fluency HTML Page with Google chart 
 
-A simple HTML page that embeds a Google Chart made from a Google Spreadsheet that tracks my Duolingo Fluency score.
+An HTML page that embeds a Google Chart made from a Google Spreadsheet that tracks my Duolingo Fluency score.
 
 Duolingo is a language learning tool that periodically will award students with a fluency estimate of their progress.
 
-I created this page because I like Duolingo and I like Data. ¡Me gustan ambos!
+I created this page because I like Duolingo and I like Data. **¡Me gustan ambos!**
 
 [https://michaelallensmith.com/duolingo/](https://michaelallensmith.com/duolingo/)
 
